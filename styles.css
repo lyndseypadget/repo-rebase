@@ -3,6 +3,11 @@ h1 {
   font-size: 32px;
 }
 
+h3 {
+  color: pink;
+  font-size: 22px;
+}
+
 button:focus {outline:0;}
 
 .button-primary {
