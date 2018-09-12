@@ -19,6 +19,8 @@ h3 {
 header {
   background-color: lightblue;
   padding: 10px;
+  display: flex;
+  justify-content: space-between;
 }
 
 header a:link, a:visited, a:hover, a:active {
