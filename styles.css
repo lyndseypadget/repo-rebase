@@ -11,11 +11,6 @@ h1 {
   font-size: 32px;
 }
 
-h3 {
-  color: pink;
-  font-size: 22px;
-}
-
 header {
   background-color: lightblue;
   padding: 10px;
@@ -29,6 +24,11 @@ header a:link, a:visited, a:hover, a:active {
   font-size: 20px;
   font-weight: 500;
   padding: 0 10px;
+}
+
+.tag-line {
+  color: red;
+  font-size: 22px;
 }
 
 button:focus {outline:0;}
