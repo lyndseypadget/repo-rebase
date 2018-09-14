@@ -12,7 +12,7 @@ h1 {
 }
 
 header {
-  background-color: lightblue;
+  background-color: thistle;
   padding: 10px;
   display: flex;
   justify-content: space-between;
